@@ -22,5 +22,15 @@ This repository demonstrates a complete integration of the **Esewa payment gatew
 
 ---
 
+## 🖼️ Screenshots
+
+### 🧾 Payment Page UI
+![Payment UI](./screenshots/first.png)
+
+### ✅ finalizing Payment
+![Confirm Page](./screenshots/third.png)
+
+### ✅ Processing Payment
+![Processing Page](./screenshots/final.png)
 
 
